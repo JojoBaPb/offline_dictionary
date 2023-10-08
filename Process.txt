@@ -1,0 +1,28 @@
+I will list some criteria that I want you to take note of for future prompting:
+
+Project planning and scope:
+
+I want to create an offline dictionary with addition features like synonyms, antonyms
+It will be a deskop application
+It will have a Minimalist design
+Platform - Windows operating system
+Dictionary size - Comprehensive vocabulary with rare and technical terms
+Additional Features: - synonyms and antonyms
+Search Functionality - Fuzzy search, autocomplete suggestions
+Accessibility - Keyboard navigation, screen reader compatibility
+Target audience - students, professionals, general audience
+Tech stack:
+
+Programming language - python
+Frameworks & tools:
+a) GUI - Tkinter
+b) Database - SQLite
+c) NLP - SpaCy
+d) Text to speech (TTS) - gTTS(google text to speech)
+e) User interface design tools - Adobe XD
+f) IDE - visual studio code
+g) Version control - git to track changes, github to host
+h) Documentation tools - MkDocs
+i) Testing framework - unittest
+j) Deployment & Packaging - cx_Freeze
+k) User feedback & Bug tracking - GitHub Issues 	     
